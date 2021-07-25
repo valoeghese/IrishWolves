@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "irishwolves",
-  "version": "1.0.0",
+  "version": "1.0.0+java.16",
   
   "name": "Irish Wolves",
   "description": "Wolves can now eat spuds",
